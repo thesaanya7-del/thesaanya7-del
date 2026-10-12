@@ -9,7 +9,7 @@
 ### 🚀 About Me
 
 - 🎓 **Education:** Pursuing B.Tech in Computer Science & Engineering
-- 💻 **Focus Areas:** Python Development, deep learning ,AI
+- 💻 **Focus Areas:** Python Development, Cybersecurity & API Penetration Testing
 - ⚡ **Interests:** Computational Simulations, Linux, and Open Source
 
 ---
